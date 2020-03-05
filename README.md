@@ -42,7 +42,7 @@ Use your own experiences to design and develop a component or tool that will imp
 
 ## Student Q&A
 
-[Submit questions as "Issues" (click)](../issues). Some of your questions answers:
+[Submit questions as "Issues" (click)](../../issues). Some of your questions answers:
 
 - *Does the content of the article matter?*
   - It should be unique and interesting, with images, formatting, fonts, etc. Try not to spend more than 2-3 hours writing and styling it. To start, just use any content to get up and running quickly.
