@@ -1,6 +1,8 @@
 # PROJECT: UI/UX COMPONENTS FOR AN ARTICLE
 
-Design and develop drop-in components or tool that can be used to augment the standard UI and improve the overall experience of a user. You will deliver this project in two parts:
+Design and develop drop-in components or tool that can be used to augment the standard UI and improve the overall experience of a user. 
+
+You will deliver this project in two parts:
 
 1. Design and prototype the components/tools outlined (A to D)
 2. Develop a functional version of each component/tool designed
