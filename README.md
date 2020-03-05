@@ -31,7 +31,7 @@ Use your own experiences to design and develop a component or tool that will imp
 
 You will be assessed on the following criteria:
 
-- **Documentation**: research/inspiration (README.md), 
+- **Documentation**
   - **Research**: Keep a README.md file with inspirations. Keep things like: sketches, drawings, analysis of potential exceptions, pros/cons of each solution, etc
   - **Code**: Assess the problem, break down into tasks, document all functions, listeners, processes
 - **User interface**: colours, spacing, overall aesthetic/style
