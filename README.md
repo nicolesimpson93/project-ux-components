@@ -2,7 +2,7 @@
 
 Design and develop drop-in components or tool that can be used to augment the standard UI and improve the overall experience of a user. 
 
-You will deliver this project in two parts:
+You will complete this project in two parts:
 
 1. Design and prototype the components/tools outlined (A to D)
 2. Develop a functional version of each component/tool designed
@@ -11,7 +11,7 @@ You will deliver this project in two parts:
 
 To being, using HTML and CSS, write and style a document of content that's long enough to allow the browser to scroll at least five times longer than the height of the window (approximately) when using the browser's default font size.
 
-## Deliverables
+## Final Deliverables
 
 ### A) Landmarks, orientation and scroll-spy
 
