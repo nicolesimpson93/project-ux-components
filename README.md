@@ -39,3 +39,12 @@ Use your own experiences to design and develop a component or tool that will imp
 - 50-64%: Student work only meets the minimum requirement of all deliverables
 - 65-79%: Work quality meets all requirements and is on par with expectations based on the topics covered
 - 80%+: Student demonstrates the ability to improve efficiency and execution through the implementation of creative solutions and topics that go beyond topics covered in class
+
+## Student Q&A
+
+[Submit questions as "Issues" (click)](../issues). Some of your questions answers:
+
+- *Does the content of the article matter?*
+  - It should be unique and interesting, with images, formatting, fonts, etc. Try not to spend more than 2-3 hours writing and styling it. To start, just use any content to get up and running quickly.
+- *What article should load when we get to the bottom of the page? (Deliverable C)*
+  - You will just reload the same content with a new heading.
