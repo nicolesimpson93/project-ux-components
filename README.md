@@ -30,7 +30,7 @@ Use your own experiences to design and develop a component or tool that will imp
 ## Assessment variables and considerations
 - **User interface**: colours, spacing, overall aesthetic/style
 - **User experience**: usability, value added, seamless integration
-- **Documentation**: assess the problem, break down into tasks, analysis of potential exceptions, pros/cons of each solution
+- **Documentation**: research/inspiration (README.md), assess the problem, break down into tasks, analysis of potential exceptions, pros/cons of each solution
 - **Code structure**: comments, indentation, names (variables and functions), readability, best practices
 - **Portability**: ease of scaled or the ability to be dropped into any website
 
