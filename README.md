@@ -28,9 +28,14 @@ When a user reached the bottom of a document, maintain the fluidity of the exper
 Use your own experiences to design and develop a component or tool that will improve the experience of a user reading or viewing a website. Consider looking for inspirations on sites like Dribbble (or others) that demonstrate UI animations or related experience upgrades.
 
 ## Assessment variables and considerations
+
+You will be assessed on the following criteria:
+
+- **Documentation**: research/inspiration (README.md), 
+  - **Research**: Keep a README.md file with inspirations. Keep things like: sketches, drawings, analysis of potential exceptions, pros/cons of each solution, etc
+  - **Code**: Assess the problem, break down into tasks, document all functions, listeners, processes
 - **User interface**: colours, spacing, overall aesthetic/style
 - **User experience**: usability, value added, seamless integration
-- **Documentation**: research/inspiration (README.md), assess the problem, break down into tasks, analysis of potential exceptions, pros/cons of each solution
 - **Code structure**: comments, indentation, names (variables and functions), readability, best practices
 - **Portability**: ease of scaled or the ability to be dropped into any website
 
