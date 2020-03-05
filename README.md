@@ -36,7 +36,7 @@ You will be assessed on the following criteria:
   - **Code**: assess the problem, break down into tasks, document all functions, listeners, processes
 - **User interface**: colours, spacing, overall aesthetic/style
 - **User experience**: usability, value added, seamless integration
-- **Code structure**: comments, indentation, names (variables and functions), readability, best practices
+- **Code structure**: indentation, names (variables and functions), readability, best practices
 - **Portability**: ease of scaled or the ability to be dropped into any website
 - **Collaboration**: distribution of work, research, management of code through git
 
