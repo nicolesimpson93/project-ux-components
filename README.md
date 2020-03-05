@@ -22,6 +22,19 @@ https://www.apple.com/mac-pro/
 http://www.drinkcann.com
 -great examples of transitioning screens
 
+https://bridgecrew.io/
+-they use a carousel at the bottom for testimonials
+-have nice colour transitions 
+
+https://heliasoils.com/
+-UNREAL transitions 
+-as you scroll the text changes an the photo on the right
+
+
+Colour Palette
+https://heliasoils.com/
+earthy colours 
+
 
 
 
