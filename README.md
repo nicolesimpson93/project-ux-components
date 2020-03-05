@@ -1,11 +1,26 @@
 # PROJECT: UI/UX COMPONENTS FOR AN ARTICLE
 
+
+Examples of layout, UI, Transitions
 https://www.aesop.com/ca/en/
 -Offers a great example of a carousel 
 -like the transition of the loading content (fade in and stay)
+-they also implement a nice horizontal progress bar for products
 
+https://www.designboom.com/architecture
+-A nice example of a timed carousel 
 
+https://www.nike.com/ca/
+-A horizontal bar for progress on products
 
+https://help.apple.com/macOS/mojave/whats-new/?lang=en&cases=kIFAGHvXTAepRptQXiXe5w,N0bfKOvERSiAp06mHOcgOQ&notification=2#stacks
+-Left sie fades an right side moves 
+
+https://www.apple.com/mac-pro/
+-extra component; nice example of a fade in with a fade out as you scroll
+
+http://www.drinkcann.com
+-great examples of transitioning screens
 
 
 
