@@ -1,0 +1,129 @@
+body {
+	background-color: rgb(202, 194, 204);
+  }
+  
+  .box {
+	  background-color: rgb(202, 194, 204);
+	  text-align: center;
+	  padding: 3em;
+  }
+
+  .topnav a {
+	   background-color: rgb(168, 191, 163);
+	   font-family: Arial, Helvetica, sans-serif;
+	   text-decoration: none;
+	   color: rgb(255, 255, 255);
+	   text-align: center;
+	   padding: 1em;
+	
+  }
+
+  .topnav a:hover {
+	  background-color: rgb(221, 231, 218);
+	  color: rgb(0, 0, 0);
+
+  }
+
+  .image a {
+	background-color: rgb(0, 0, 0);
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	color: rgb(255, 255, 255);
+
+  }
+
+  .image a:hover {
+	  background-color: rgb(220, 235, 255);
+	  color: rgb(0, 0, 0);
+
+  }
+
+
+
+  h1 {
+	color: rgb(135, 160, 145);
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	padding: 0.5em;
+  }
+
+  h2 {
+	  color:rgb(233, 223, 230);
+	  background-color: rgb(0, 0, 0);
+	  font-family: Arial, Helvetica, sans-serif;
+	  text-align: center;
+	  padding: 1.5em;
+  }
+
+  h4 {
+	  color: rgb(255, 255, 255);
+	  font-family: Arial, Helvetica, sans-serif;
+	  text-align: center;
+  }
+
+  h3 {
+	  color: rgb(135, 160, 145);
+	  font-family: Arial, Helvetica, sans-serif;
+	  text-align: center;
+  }
+
+
+
+  p {
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+  }
+
+  header {
+	  text-align: center;
+  }
+
+  .footer {
+	  text-align: center;
+	  font-family: Arial, Helvetica, sans-serif;
+	  font-style: italic;
+	  padding: 0.2em;
+	  
+  }
+
+
+
+
+
+
+  /* MEDIA QUERIES MUST GO AT THE BOTTOM */
+
+@media screen and (max-width: 700px) {
+	.topnav {
+	  min-width: initial;
+	  display: grid;
+	  grid-template-columns: 1fr;
+	  align-items: center;
+	  justify-content: center;
+	  text-align: center;
+	}
+  }
+  
+@media screen and (max-width: 700px) {
+	.image {
+	  min-width: initial;
+	  display: grid;
+	  grid-template-columns: 1fr;
+	  align-items: center;
+	  justify-content: center;
+	  text-align: center;
+	}
+}
+
+@media screen and (max-width: 700px) {
+	.footer {
+	  min-width: initial;
+	  display: grid;
+	  grid-template-columns: 1fr;
+	  align-items: center;
+	  justify-content: center;
+	  text-align: center;
+	}
+}
+
