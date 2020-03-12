@@ -15,7 +15,12 @@ body {
 	   color: rgb(255, 255, 255);
 	   text-align: center;
 	   padding: 1em;
-	
+	  
+  }
+
+  .topnav{
+	position:fixed;
+	padding-left: 400px;
   }
 
   .topnav a:hover {
@@ -78,6 +83,28 @@ body {
   header {
 	  text-align: center;
   }
+  .carousel{
+    background: #2f4357;
+    margin-top: 20px;
+  }
+  .carousel-item{
+    text-align: center;
+    min-height: 280px; /* Prevent carousel from being distorted if for some reason image doesn't load */
+  }
+  .carousel-1{
+	margin: 20px;
+  }
+ 
+
+  .mycarousel{
+	overflow: hidden;
+  }
+   .carousel-inner{
+	   display:flex;
+	   overflow: hidden;
+	   transform:traslateX(-300px)
+	
+   }
 
   .footer {
 	  text-align: center;
@@ -95,7 +122,9 @@ body {
 		  text-align: center;
 		  
   }
-		
+
+
+
 
 
 
