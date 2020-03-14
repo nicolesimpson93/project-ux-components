@@ -84,7 +84,7 @@ body {
 	  text-align: center;
   }
   .carousel{
-    background: #2f4357;
+    background: #000000;
     margin-top: 20px;
   }
   .carousel-item{
@@ -111,6 +111,7 @@ body {
 	border-radius: 4px;
 	padding: 10px;
 	width: 150px;
+	display: block;
 	margin-left: auto;
 	margin-right: auto;
 	width: 50%;
