@@ -20,7 +20,7 @@ body {
 
   .topnav{
 	position:fixed;
-	padding-left: 400px;
+	padding-left: 460px;
   }
 
   .topnav a:hover {
@@ -221,6 +221,7 @@ body {
 	  text-align: center;
 	}
 }
+
 
 
 
