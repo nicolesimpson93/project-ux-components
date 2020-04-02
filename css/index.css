@@ -32,7 +32,7 @@ body {
   }
 
   .line{
-	  background-color: rgb(157, 191, 158);
+	  background-color: rgb(9, 9, 9);
 	  height:5px;
 	  border-radius: 5px;
 	  position: fixed;

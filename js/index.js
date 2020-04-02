@@ -26,7 +26,4 @@ function scrollFunction() {
 // }) // Back to top button
 
 
-//Happy shopping message button that indicates to the user that they are dont on that page
-function revealMessage() {
-    document.getElementById("hiddenMessage").style.display = 'block';
-}
+
