@@ -110,7 +110,6 @@ body {
 }
 
 .carousel_track-container{
-	background:lightcoral;
 	height:100%;
 	position: relative;
 	overflow: hidden;
@@ -154,7 +153,6 @@ body {
 }
 
 .carousel_nav{
-	background: gray;
 	display: flex;
 	justify-content: center;
 	padding:10px 0;
@@ -174,7 +172,7 @@ body {
 	background:rgba(0,0,0.75);
 }
 
-
+.is-hidden { display:none }
 
 
   
