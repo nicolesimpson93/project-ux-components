@@ -21,9 +21,70 @@ function scrollFunction() {
     }
 }
 
-// document.querySelector('.tothetop').addEventListener('click', event => {
-//     window.scrollTo({left:0, top:0, behavior:"smooth"})
-// }) // Back to top button
 
 
 
+
+const track = document.querySelector(`.carousel_track`);
+const slides = Array.from(track.children);
+const nextButton = document.querySelector(`.carousel_button--right`);
+const prevButton = document.querySelector(`.carousel_button--left`);
+const dotsNa = document.querySelector(`carousel_nav`);
+const dots= Array.from(dotsNavchildren);
+console.log(track);
+
+constslideSize = slides[0].getBoundingClientRect().width;
+
+
+//slides[0].style.left = 0;
+//slides [1] .style.left = slidewidth + `px`;
+//slides [2] .style.left = slidewidth * 1 `px`;
+//slides [3] .style.left = slidewidth * 2 `px`;
+
+consy setSlidePosition =(slide,index) => {
+    slide.style.left = slideWidth * index +`px`;
+};
+
+slides.forEach(setSlidePosition);
+
+const moveToSlide =(track,currentSlide, targetSlide) => {
+    track.style.trasform =`translateX(` + targetSlide.style.left +`)`;
+    currentSlide.classList.remove(`current-slide`);
+    targetSlide.classList.add(`current-slide`);
+}
+
+//when I click left, move slides to the left
+prevButton.addEventListener(`click`, e =>{
+    const currentSlide = track.querySelector(`.current-slide`);
+    const prevSlide = currentSlide.previousElementSibling;
+
+    moveToSlide(track,currentSlide, previousSlide);
+
+});
+
+//when I click right, move slides to the right 
+nextButton.addEventListener(`click`, e => {
+    const currentSlide = track.querySelector(`.current-slide`);
+    const nextSlide = currentSlide.nextElementSibling;
+ 
+    moveToSlide(track,currentSlide, nextSlide);
+});
+
+
+//when I click the nav indicators, move to the sldie 
+
+ dotsNav.addEventListener(`click`, e =>{
+ //what indicator was clicked on?
+ const targetDot = e.target.closest(`button`);
+
+ if(!targetDot) return;
+
+ const currentSlide = track.querySelector(`.current-slide`);
+ const currentDot = dotsNav.querySelector (`.current-slide`);
+ conts targetIndex = dots.findIndex (dot => dot === targetDot)
+ const targetSlide = slides[targetIndex];
+
+ moveToSlide(track,currentSlide, targetSlide);
+ 
+ 
+})
