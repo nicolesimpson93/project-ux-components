@@ -21,6 +21,11 @@ function scrollFunction() {
     }
 }
 
+// document.querySelector('.tothetop').addEventListener('click', event => {
+//     window.scrollTo({left:0, top:0, behavior:"smooth"})
+// }) // Back to top button
+
+
 //Happy shopping message button that indicates to the user that they are dont on that page
 function revealMessage() {
     document.getElementById("hiddenMessage").style.display = 'block';
