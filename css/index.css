@@ -167,6 +167,7 @@ body {
 	height: 15px;
 	background: rgba(0,0,0,.3);
 	margin: 0 12px;
+	cursor: pointer;
 }
 
 .carousel_indicator.current-slide{
